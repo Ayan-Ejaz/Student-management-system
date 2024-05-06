@@ -1,4 +1,4 @@
-This project, developed in C++ by myself and two fellow students, was conceived during our Data Structures course. Our aim was not to create something overly complex, but rather to build an efficient and effective system. Leveraging trees as a primary data structure alongside advanced sorting algorithms, we sought to manage student records seamlessly.
+This project, developed in C++ by myself and two fellow students, was conceived during our Data Structures course during our third semester. Our aim was not to create something overly complex, but rather to build an efficient and effective system. Leveraging trees as a primary data structure alongside advanced sorting algorithms, we sought to manage student records seamlessly.
 
 Features:
 File-based Data Input: The system reads all data from a file, adhering to the instruction to minimize reliance on user input.
