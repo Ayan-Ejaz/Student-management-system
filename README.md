@@ -2,7 +2,7 @@ This project, developed in C++ by myself and two fellow students, was conceived 
 
 Features:
 File-based Data Input: The system reads all data from a file, adhering to the instruction to minimize reliance on user input.
-Efficient Processing: Designed to handle thousands of student records with minimal time and space complexity.
+Efficient Processing:  Designed to handle thousands of student records with minimal time and space complexity.
 
 
 How you can access it:
